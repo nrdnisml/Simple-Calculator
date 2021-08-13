@@ -1,5 +1,7 @@
+# DTS 2021 - JUNIOR WEB DEV - TASK 8 
+
 # Simple-Calculator
- simple calculator app using php for calculations, js dom, and xmlHttpRequest to access functions in php 
+ Simple calculator app using php for calculations, js dom, and xmlHttpRequest to access functions in php 
 
  ## User Interface
  ![ui](ss/1.png)
